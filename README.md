@@ -76,9 +76,6 @@ max-chat/
 ### Установка и запуск
 
 ```bash
-# Клонирование репозитория
-git clone <repo-url>
-cd max-greenapi-chat
 
 # Установка зависимостей
 npm install
